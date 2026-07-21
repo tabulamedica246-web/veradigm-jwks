@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "sYxeOmqRe85fwmVf9VZEtt-JWrK3bFJfUC96MNf60pUUw_A_VvVuqfvStf9beuI_f-LzS2laa4Y0ClcV5qb9Sk0XZmx64g8PALKCMWuayBRst0DtI9ncirdcO7DGKph6uHTqB3X6W6Q7Up8Pjrfs8dNILZFKEi9rdCsoH0K1UAEi-ZqEuCiKfcXgwfr1XvG2Uw8dJ9tyy6veYYobv4_nXJr4S9OL2LcIY8pfLr6QkFguxYmJJT7TrE2kmwD-khNFe_UhKjebr7NH_orUYcGFjkcwwyMg-ZbfwbuRZwmwRsUOgiU3fth1-Kmz5VoprgiE8DAnXs-gq1-Yl4US9rUgEQ",
+      "e": "AQAB",
+      "kid": "tabula-veradigm-8377deca",
+      "alg": "RS384",
+      "use": "sig"
+    }
+  ]
+}
